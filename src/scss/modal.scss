@@ -1,0 +1,10 @@
+@import "settings/setting.variables";
+
+.form-body {
+  font-family: $serif;
+  height: 250px;
+}
+
+::placeholder {
+  color: #c0c0c0;
+}
